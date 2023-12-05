@@ -1,0 +1,14 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  margin: 0;
+  background-color: #e5e5f7;
+  opacity: 1;
+  background-image: radial-gradient(#bec1f9 2px, transparent 2px), radial-gradient(#c9cbfa 2px, #e5e5f7 2px);
+  background-size: 80px 80px;
+  background-position: 0 0, 40px 40px;
+}
