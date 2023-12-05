@@ -10,10 +10,11 @@ Created using npx create-next-app
 ```
 
 To run this app :
-
+```
 cd Test-Next-SSR
 npm i
 npm run dev
+```
 
 ---
 
